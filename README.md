@@ -11,6 +11,7 @@ This is my personal portfolio website. It showcases my work in 3D web developmen
 
 ## Folder Structure
 
+```
 portfolio/
 │
 ├── css/
@@ -26,6 +27,7 @@ portfolio/
 │
 ├── media/               (Images, icons, Spline exports)
 └── README.md
+```
 
 ## Technologies Used
 
@@ -36,6 +38,11 @@ portfolio/
 - CSS Transitions and JavaScript for animations
 - Responsive design techniques
 
+## 📸 Live Preview
+
+![3DE0A61E-9E3D-4CDD-A8AA-2EAA393A936E](https://github.com/user-attachments/assets/18b7388c-f38e-448d-a6da-461ded0048dc)
+
+
 ## Highlights
 
 - Integrated Spline 3D designs into the website
@@ -45,6 +52,6 @@ portfolio/
 
 ## Contact
 
-Email: faazilrahmaan@gmail.com
-GitHub: https://github.com/faaasiill
-LinkedIn: https://www.linkedin.com/in/faaasiill?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- Email: faazilrahmaan@gmail.com
+- GitHub: [https://github.com/faaasiill](https://github.com/faaasiill)
+- LinkedIn: [https://www.linkedin.com/in/faaasiill?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/faaasiill?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
